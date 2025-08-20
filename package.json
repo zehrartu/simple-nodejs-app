@@ -21,6 +21,7 @@
 },
   "homepage": "https://github.com/rat9615/simple-nodejs-app#readme",
   "dependencies": {
+    "jest":"30.0.5",
     "ejs": "^3.1.10",
     "express": "^4.17.3",
     "node-fetch": "^2.6.7",
