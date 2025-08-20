@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/rat9615/simple-nodejs-app/issues"
   },
+  "scripts": {
+  "test": "jest"
+},
   "homepage": "https://github.com/rat9615/simple-nodejs-app#readme",
   "dependencies": {
     "ejs": "^3.1.10",
